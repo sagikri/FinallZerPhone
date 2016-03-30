@@ -3,4 +3,17 @@
     <string name="action_settings">Settings</string>
     <string name="mainLoginButton">Login</string>
     <string name="mainSignUpButton">SignUp</string>
+    <string name="title_activity_category">category</string>
+    <string name="title_activity_login">login</string>
+    <string name="login">Login</string>
+    <string name="userNmae">User Name</string>
+    <string name="userName">user name</string>
+    <string name="password">password</string>
+    <string name="title_activity_register">register</string>
+    <string name="registerTitle">Registration</string>
+    <string name="regFirstName">First Name</string>
+    <string name="regLastName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="sendBtn">Send</string>
 </resources>
